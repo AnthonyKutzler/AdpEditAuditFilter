@@ -13,7 +13,7 @@ import java.util.*
 
 class Excel {
     var book: XSSFWorkbook? = null
-    private val file = File("/home/gob/Downloads/auditdoc.xlsx")
+    private val file = File("C:\\Users\\gob\\Downloads\\auditdoc.xlsx")
     private var person: Person? = null
     //var map = mutableMapOf<String, Person>()
 
